@@ -55,7 +55,7 @@
         b = [];
 
     function m(t) {
-        return a.p + "static/js/" + ({
+        return a.p + "https://jscss-2088844-1305953556.ap-guangzhou.run.tcloudbase.com/" + ({
             Mine: "Mine"
         } [t] || t) + "." + {
             Mine: "4c160b23"
@@ -77,7 +77,7 @@
                 Mine: 1
             };
         n[t] ? A.push(n[t]) : 0 !== n[t] && i[t] && A.push(n[t] = new Promise((function(A, i) {
-            for (var e = "static/css/" + ({
+            for (var e = "https://jscss-2088844-1305953556.ap-guangzhou.run.tcloudbase.com/" + ({
                         Mine: "Mine"
                     } [t] || t) + "." + {
                         Mine: "14074204"
