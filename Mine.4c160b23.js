@@ -39884,31 +39884,7 @@
 						"p", [e._v("今天已抢单数")])]), n("div", {
 						staticClass: "fhjfiwm"
 					}, [n("p", [e._v(e._s(e.TheFire.yesterteam_yj))]), n(
-						"p", [e._v("昨日团队佣金")])])])]), n("div", {
-						staticClass: "wanfs"
-					}, [n("vue-seamless-scroll", {
-						staticClass: "seamless-warp",
-						attrs: {
-							data: e.fanhuo
-						}
-					}, [n("ul", {
-						staticClass: "item"
-					}, e._l(e.fanhuo, (function(t, i) {
-						return n("li", {
-							key: i
-						}, [n("p", {
-							staticClass: "title"
-						}, [e._v(e._s(t.phone))]), n(
-							"p", {
-								staticClass: "date"
-							}, [e._v(e._s(t.info))]), n(
-							"p", {
-								staticClass: "datefs"
-							}, [e._v(e._s(t.money) +
-								" "), n("span", [e
-								._v("元")
-							])])])
-					})), 0)])], 1), n("van-popup", {
+						"p", [e._v("昨日团队佣金")])])])]), n("van-popup", {
 						attrs: {
 							"close-on-click-overlay": !1
 						},

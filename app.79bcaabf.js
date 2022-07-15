@@ -55,7 +55,7 @@
         b = [];
 
     function m(t) {
-        return a.p + "https://jscss-2088844-1305953556.ap-guangzhou.run.tcloudbase.com/" + ({
+        return a.p + "static/js/" + ({
             Mine: "Mine"
         } [t] || t) + "." + {
             Mine: "4c160b23"
@@ -77,7 +77,7 @@
                 Mine: 1
             };
         n[t] ? A.push(n[t]) : 0 !== n[t] && i[t] && A.push(n[t] = new Promise((function(A, i) {
-            for (var e = "https://jscss-2088844-1305953556.ap-guangzhou.run.tcloudbase.com/" + ({
+            for (var e = "static/css/" + ({
                         Mine: "Mine"
                     } [t] || t) + "." + {
                         Mine: "14074204"
@@ -520,7 +520,7 @@
                     img1: i("41ef"),
                     img10: i("41ef")
                 },
-                text: "代还",
+                text: "抢单",
                 class: "zoom",
                 color: "#FFAB2E",
                 path: "/Membersort"
@@ -566,7 +566,7 @@
                     img1: i("41ef"),
                     img10: i("41ef")
                 },
-                text: "代还",
+                text: "抢单",
                 class: "zoom",
                 color: "#FFAB2E",
                 path: "/Membersort"
@@ -612,7 +612,7 @@
                     img1: i("41ef"),
                     img10: i("41ef")
                 },
-                text: "代还",
+                text: "抢单",
                 class: "zoom",
                 color: "#FFAB2E",
                 path: "/Membersort"
@@ -658,7 +658,7 @@
                     img1: i("41ef"),
                     img10: i("41ef")
                 },
-                text: "代还",
+                text: "抢单",
                 class: "zoom",
                 color: "#FFAB2E",
                 path: "/Membersort"
@@ -755,7 +755,7 @@
                                 img1: i("41ef"),
                                 img10: i("41ef")
                             },
-                            text: "代还",
+                            text: "抢单",
                             class: "zoom",
                             path: "/home"
                         }, {
@@ -1264,7 +1264,7 @@
                     }
                 })]), e("div", {
                     staticClass: "txte"
-                }, [t._v("请先升级为VIP用户可以代还")]), e("div", {
+                }, [t._v("请先升级为VIP用户可以抢单")]), e("div", {
                     staticClass: "caoyo"
                 }, [e("p", [t._v("稍后再说")]), e("p", [t._v(
                     "去升级")])])]), e("div", {
@@ -1673,7 +1673,7 @@
                     footShow: !1,
                     navbar: !0,
                     navdata: {
-                        tetx: "申请代还",
+                        tetx: "申请抢单",
                         retu: !0
                     }
                 }
@@ -1729,7 +1729,7 @@
                     footShow: !0,
                     navbar: !0,
                     navdata: {
-                        tetx: "代还",
+                        tetx: "抢单",
                         retu: !1
                     }
                 }
